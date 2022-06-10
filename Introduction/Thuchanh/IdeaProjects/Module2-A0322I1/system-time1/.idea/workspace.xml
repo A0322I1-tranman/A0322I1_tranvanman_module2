@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3db78905-d045-45b5-a48d-5ba3c7353d94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../A0322I1_tranvanman_module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../A0322I1_tranvanman_module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/Module2-A0322I1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time/system-time.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/out/production/system-time1/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/src/SystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-A0322I1/system-time1/system-time1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-I01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-I01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-I01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module2-A0322I1/IdeaProjects/Module2-I01/Module2-I01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/...html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/...html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicase/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai6.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2AMtrRJqwNceCApss9Jut5jnXh8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../A0322I1_tranvanman_module2/IdeaProjects/Module2-A0322I1/system-time1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SystemTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SystemTime" />
+      <module name="system-time1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SystemTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db78905-d045-45b5-a48d-5ba3c7353d94" name="Default Changelist" comment="" />
+      <created>1654831479292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654831479292</updated>
+      <workItem from="1654831482847" duration="905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="0" key="#Project_Structure" timestamp="1654831550462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1654831550462" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1654834237057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1654834237057" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1654834238150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1654834238150" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1654834238150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1654834238150" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1654834238150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1654834238150" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1654834238150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1654834238150" />
+  </component>
+</project>
