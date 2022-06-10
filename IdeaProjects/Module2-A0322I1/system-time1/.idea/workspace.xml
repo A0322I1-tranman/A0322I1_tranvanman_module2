@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db78905-d045-45b5-a48d-5ba3c7353d94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../A0322I1_tranvanman_module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../A0322I1_tranvanman_module1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SystemTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/...html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/...html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../thicase/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../thicase/bai6.html" afterDir="false" />
-    </list>
+    <list default="true" id="3db78905-d045-45b5-a48d-5ba3c7353d94" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../IdeaProjects/Module2-A0322I1/system-time1/.idea/workspace.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654831479292</updated>
       <workItem from="1654831482847" duration="865000" />
+      <workItem from="1654834240321" duration="299000" />
     </task>
     <servers />
   </component>
@@ -107,11 +99,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="326" y="0" key="#Project_Structure" timestamp="1654831550462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="326" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1654831550462" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1654834438906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1654834438906" />
+    <state x="65" y="0" key="new project wizard" timestamp="1654834539236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1654834539236" />
   </component>
 </project>
