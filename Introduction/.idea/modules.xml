@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Introduction.iml" filepath="$PROJECT_DIR$/.idea/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuchanh/IdeaProjects/Module2-A0322I1/Module2-A0322I1.iml" filepath="$PROJECT_DIR$/Thuchanh/IdeaProjects/Module2-A0322I1/Module2-A0322I1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuchanh/IdeaProjects/System-time/System-time.iml" filepath="$PROJECT_DIR$/Thuchanh/IdeaProjects/System-time/System-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuchanh/IdeaProjects/variable-datatype/variable-datatype.iml" filepath="$PROJECT_DIR$/Thuchanh/IdeaProjects/variable-datatype/variable-datatype.iml" />
+    </modules>
+  </component>
+</project>
