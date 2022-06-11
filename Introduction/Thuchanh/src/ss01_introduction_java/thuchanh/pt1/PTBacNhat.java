@@ -1,4 +1,4 @@
-package com.codegym;
+package ss01_introduction_java.thuchanh.pt1;
 import java.util.Scanner;
 public class PTBacNhat {
     public static void main(String[] args){

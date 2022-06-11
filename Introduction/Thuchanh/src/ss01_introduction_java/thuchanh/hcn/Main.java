@@ -1,4 +1,4 @@
-package com.codegym;
+package ss01_introduction_java.thuchanh.hcn;
 
 import java.util.Scanner;
 
