@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/ss03_array_and_method_injava/src/bt/findmininarr/findmininarr.iml" filepath="$PROJECT_DIR$/ss03_array_and_method_injava/src/bt/findmininarr/findmininarr.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss02_loop_in_java/ss02_loop_in_java.iml" filepath="$PROJECT_DIR$/ss02_loop_in_java/ss02_loop_in_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss03_array_and_method_injava/ss03_array_and_method_injava.iml" filepath="$PROJECT_DIR$/ss03_array_and_method_injava/ss03_array_and_method_injava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss04_Class_and_OOP/ss04_Class_and_OOP.iml" filepath="$PROJECT_DIR$/ss04_Class_and_OOP/ss04_Class_and_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" filepath="$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" />
     </modules>
   </component>
 </project>
