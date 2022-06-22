@@ -25,8 +25,8 @@ public class Point2D {
         return y;
     }
 
-    public void setY(float t) {
-        this.y = t;
+    public void setY(float y) {
+        this.y = y;
     }
     public float[] getXY(){
         float[] newArray = {getX(),getY()};
