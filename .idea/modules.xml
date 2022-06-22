@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/ss03_array_and_method_injava/ss03_array_and_method_injava.iml" filepath="$PROJECT_DIR$/ss03_array_and_method_injava/ss03_array_and_method_injava.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss04_Class_and_OOP/ss04_Class_and_OOP.iml" filepath="$PROJECT_DIR$/ss04_Class_and_OOP/ss04_Class_and_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" filepath="$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss06_inheritance/ss06_inheritance.iml" filepath="$PROJECT_DIR$/ss06_inheritance/ss06_inheritance.iml" />
     </modules>
   </component>
 </project>
