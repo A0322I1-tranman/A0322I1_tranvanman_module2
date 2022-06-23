@@ -4,12 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ss03_array_and_method_injava/src/bt/findmininarr/bt/findmininarr/1.iml" filepath="$PROJECT_DIR$/ss03_array_and_method_injava/src/bt/findmininarr/bt/findmininarr/1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/A0322I1_tranvanman_module2.iml" filepath="$PROJECT_DIR$/.idea/A0322I1_tranvanman_module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseStudy/CaseStudy.iml" filepath="$PROJECT_DIR$/CaseStudy/CaseStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss03_array_and_method_injava/src/bt/findmininarr/findmininarr.iml" filepath="$PROJECT_DIR$/ss03_array_and_method_injava/src/bt/findmininarr/findmininarr.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss02_loop_in_java/ss02_loop_in_java.iml" filepath="$PROJECT_DIR$/ss02_loop_in_java/ss02_loop_in_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss03_array_and_method_injava/ss03_array_and_method_injava.iml" filepath="$PROJECT_DIR$/ss03_array_and_method_injava/ss03_array_and_method_injava.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss04_Class_and_OOP/ss04_Class_and_OOP.iml" filepath="$PROJECT_DIR$/ss04_Class_and_OOP/ss04_Class_and_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" filepath="$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss06_inheritance/ss06_inheritance.iml" filepath="$PROJECT_DIR$/ss06_inheritance/ss06_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss07_Abstract_and_Interface/ss07_Abstract_and_Interface.iml" filepath="$PROJECT_DIR$/ss07_Abstract_and_Interface/ss07_Abstract_and_Interface.iml" />
     </modules>
   </component>
 </project>

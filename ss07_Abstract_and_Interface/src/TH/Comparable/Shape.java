@@ -1,4 +1,4 @@
-package TH.Shape;
+package TH.Comparable;
 
 public class Shape {
     private String color = "green";
