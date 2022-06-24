@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" filepath="$PROJECT_DIR$/ss05_AccessModifier_StaticMethod_Static/ss05_AccessModifier_StaticMethod_Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss06_inheritance/ss06_inheritance.iml" filepath="$PROJECT_DIR$/ss06_inheritance/ss06_inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss07_Abstract_and_Interface/ss07_Abstract_and_Interface.iml" filepath="$PROJECT_DIR$/ss07_Abstract_and_Interface/ss07_Abstract_and_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss08_CleanCode_and_Refactoring/ss08_CleanCode_and_Refactoring.iml" filepath="$PROJECT_DIR$/ss08_CleanCode_and_Refactoring/ss08_CleanCode_and_Refactoring.iml" />
     </modules>
   </component>
 </project>
