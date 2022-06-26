@@ -56,7 +56,7 @@ public class TennisGame {
         }
         return score;
     }
-    
+
 
     public static String secondPlayer2(int scorePlayer2){
         String score = "";

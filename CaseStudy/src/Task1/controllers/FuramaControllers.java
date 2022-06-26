@@ -1,4 +1,4 @@
-package controllers;
+package Task1.controllers;
 import java.util.Scanner;
 public class FuramaControllers {
      public static Scanner input = new Scanner(System.in);
