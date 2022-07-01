@@ -1,20 +1,37 @@
 package Task2.models;
 
+import java.util.Scanner;
+
 public class Employee extends Person {
     private int maNhanVien;
-    private int trinhDo;
+    private level trinhDo;
+    private Office office;
     private String viTri;
     private double luong;
+    enum Office{
+        Reception,
+        Service,
+        Experts,
+        Monitor,
+        Manage,
+        Direction
+    }
+    enum level{
+        Trungcap,
+        Caodang,
+        Daihoc,
+        Saudaihoc
+    }
     public Employee(){}
 
-    public Employee(int maNhanVien, int trinhDo, String viTri, double luong) {
+    public Employee(int maNhanVien, level trinhDo, String viTri, double luong) {
         this.maNhanVien = maNhanVien;
         this.trinhDo = trinhDo;
         this.viTri = viTri;
         this.luong = luong;
     }
 
-    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, int soDienThoai, String eMail, int maNhanVien, int trinhDo, String viTri, double luong) {
+    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, int soDienThoai, String eMail, int maNhanVien, level trinhDo, String viTri, double luong) {
         super(hoTen, ngaySinh, gioiTinh, soCMND, soDienThoai, eMail);
         this.maNhanVien = maNhanVien;
         this.trinhDo = trinhDo;
@@ -30,13 +47,13 @@ public class Employee extends Person {
         this.maNhanVien = maNhanVien;
     }
 
-    public int getTrinhDo() {
-        return trinhDo();
-    }
-    public void setTrinhDo(int trinhDo){
-        trinhDo();
+    public level getTrinhDo() {
+        return trinhDo;
     }
 
+    public void setTrinhDo(level trinhDo) {
+        this.trinhDo = trinhDo;
+    }
 
     public String getViTri() {
         return viTri;
@@ -53,24 +70,30 @@ public class Employee extends Person {
     public void setLuong(double luong) {
         this.luong = luong;
     }
-    public static int trinhDo(){
-        int choice = -1;
-        switch (choice){
-            case 1:
-                System.out.println("Trung cấp");
-                break;
-        }
-       return choice;
+
+    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, int soDienThoai, String eMail, Office office) {
+        super(hoTen, ngaySinh, gioiTinh, soCMND, soDienThoai, eMail);
+        this.office = office;
+    }
+
+    public Office getOffice() {
+        return office;
+    }
+
+    public void setOffice(Office office) {
+        this.office = office;
     }
 
     @Override
     public String toString() {
-        return "Employee{" +super.toString()+
-                "maNhanVien=" + maNhanVien +
+        return "Employee{" +
+                "maNhanVien=E" + maNhanVien +
                 ", trinhDo=" + trinhDo +
+                ", office=" + office +
                 ", viTri='" + viTri + '\'' +
                 ", luong=" + luong +
                 '}';
     }
+
 
 }

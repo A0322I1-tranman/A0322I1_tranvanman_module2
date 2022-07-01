@@ -1,4 +1,4 @@
 package Task2.services;
 
-public class Service {
+public interface Service {
 }

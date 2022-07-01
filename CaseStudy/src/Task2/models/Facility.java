@@ -58,4 +58,16 @@ public abstract class Facility {
     public void setKieuThue(Date kieuThue) {
         this.kieuThue = kieuThue;
     }
+
+    @Override
+    public String toString() {
+        return "Facility{" +
+                "tenDichVu='" + tenDichVu + '\'' +
+                ", dienTichSuDung=" + dienTichSuDung +
+                ", chiPhiThue=" + chiPhiThue +
+                ", soLuongNguoiToiDa=" + soLuongNguoiToiDa +
+                ", kieuThue=" + kieuThue +
+                '}';
+    }
 }
+

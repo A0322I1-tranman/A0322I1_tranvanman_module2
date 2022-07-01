@@ -22,4 +22,11 @@ public class Room extends Facility {
     public void setDichVuMienPhiDiKem(String dichVuMienPhiDiKem) {
         this.dichVuMienPhiDiKem = dichVuMienPhiDiKem;
     }
+
+    @Override
+    public String toString() {
+        return "Room{" +super.toString()+
+                "dichVuMienPhiDiKem='" + dichVuMienPhiDiKem + '\'' +
+                '}';
+    }
 }
