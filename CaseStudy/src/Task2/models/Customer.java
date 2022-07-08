@@ -1,12 +1,10 @@
 package Task2.models;
-
+import Task2.models.type;
 public class Customer extends Person {
     private int IDcustom;
     private type customType;
     private String address;
-    enum type{
-        Diamond,Platinum,Gold,Silver,Member
-    }
+
     public Customer(){}
 
     public Customer(int IDcustom, type customType, String address) {

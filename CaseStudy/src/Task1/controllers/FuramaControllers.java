@@ -1,5 +1,13 @@
 package Task1.controllers;
+import Task2.models.Level;
+import Task2.models.Official;
+import Task2.services.EmployeeServiceImpl;
+import Task2.models.Employee;
+
 import java.util.Scanner;
+
+import static Task1.controllers.FuramaControllers.enterNewEmployee;
+
 public class FuramaControllers {
      public static Scanner input = new Scanner(System.in);
     public static int displayMainmenu() {
@@ -70,13 +78,31 @@ public class FuramaControllers {
     }
 
     public static void main(String[] args) {
-        int choice = -1,choose;
+        int choose,choice=-1;
+        do {
+            choose = displayMainmenu();
+            choose(choose);
+        }while (choose!=6);
+    }
+    public static void choose(int choose){
+        int choice = -1;
+        Scanner scanner = new Scanner(System.in);
+        Scanner scannerStr = new Scanner(System.in);
+        EmployeeServiceImpl employeeService = new EmployeeServiceImpl();
         do {
             System.out.println("Enter your number: ");
             choose = displayMainmenu();
             switch (choose){
                 case 1:
-                    choice = EmployeeManagement();
+                    do {
+                        choice = EmployeeManagement();
+                        if (choice==1){
+                            employeeService.showEmployee();
+                        }else if (choice==2){
+                            Employee newEmployee = enterNewEmployee(scanner,scannerStr);
+                             employeeService.addEmployee(newEmployee);
+                        }
+                    }while (choice!=4);
                     break;
                 case 2:
                     choice = CustomerManagement();
@@ -96,6 +122,30 @@ public class FuramaControllers {
             }
 
         }while (choose!=6);
+    }     public static Employee enterNewEmployee(Scanner scanner, Scanner scannerstr) {
+        System.out.println("Enter code ID for new Employee");
+        int code = scanner.nextInt();
+        System.out.println("Enter name for new Employee");
+        String name = scannerstr.nextLine();
+        System.out.println("Enter Date of birth for new Employee");
+        int date = scanner.nextInt();
+        System.out.println("Enter CMND for new Employee");
+        int CMND = scanner.nextInt();
+        System.out.println("Enter email for new Employee");
+        String email = scannerstr.nextLine();
+        System.out.println("Enter level for new Employee");
+        Level[] level = Level.values();
+        System.out.println("Enter gender for new Employee with (true: men/ false: women");
+        boolean gender= scanner.nextBoolean();
+        System.out.println("Enter SDT for new Employee:");
+        int sdt = scanner.nextInt();
+        System.out.println("Enter position for new Employee: ");
+        String position = scannerstr.nextLine();
+        System.out.println("Enter office for new Employee");
+        Official[] officials = Official.values();
+        System.out.println("Enter salary for new Employee");
+        double salary = scanner.nextDouble();
+        return new Employee(name,date,gender,CMND,sdt,email,code,level,position,officials,salary);
     }
         }
 

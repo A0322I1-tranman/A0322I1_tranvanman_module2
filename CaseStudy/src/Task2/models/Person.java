@@ -5,7 +5,7 @@ public abstract class Person {
     private int ngaySinh;
     private boolean gioiTinh;
     private int soCMND;
-    private int soDienThoai;
+    private long soDienThoai;
     private String eMail;
     public Person(){
     }
@@ -51,7 +51,7 @@ public abstract class Person {
         this.soCMND = soCMND;
     }
 
-    public int getSoDienThoai() {
+    public long getSoDienThoai() {
         return soDienThoai;
     }
 

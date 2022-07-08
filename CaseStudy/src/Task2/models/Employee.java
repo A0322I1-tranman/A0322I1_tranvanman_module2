@@ -1,43 +1,37 @@
 package Task2.models;
-
+import Task2.models.Official;
+import Task2.models.Level;
 import java.util.Scanner;
 
 public class Employee extends Person {
+    private Level trinhDo;
     private int maNhanVien;
-    private level trinhDo;
-    private Office office;
     private String viTri;
     private double luong;
-    enum Office{
-        Reception,
-        Service,
-        Experts,
-        Monitor,
-        Manage,
-        Direction
-    }
-    enum level{
-        Trungcap,
-        Caodang,
-        Daihoc,
-        Saudaihoc
-    }
+    private Official office;
+
+
     public Employee(){}
 
-    public Employee(int maNhanVien, level trinhDo, String viTri, double luong) {
+    public Employee(int maNhanVien, Level trinhDo, String viTri, double luong) {
         this.maNhanVien = maNhanVien;
         this.trinhDo = trinhDo;
         this.viTri = viTri;
         this.luong = luong;
     }
 
-    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, int soDienThoai, String eMail, int maNhanVien, level trinhDo, String viTri, double luong) {
-        super(hoTen, ngaySinh, gioiTinh, soCMND, soDienThoai, eMail);
+    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, long soDienThoai, String eMail, int maNhanVien, Level trinhDo, String viTri,Official office, double luong) {
+        super(hoTen, ngaySinh, gioiTinh, soCMND, (int) soDienThoai, eMail);
         this.maNhanVien = maNhanVien;
         this.trinhDo = trinhDo;
         this.viTri = viTri;
         this.luong = luong;
+        this.office = office;
     }
+
+    public Employee(String name, int date, boolean gender, int cmnd, int sdt, String email, int code, Level[] level, String position, Official[] officials, double salary) {
+    }
+
 
     public int getMaNhanVien() {
         return maNhanVien;
@@ -47,11 +41,11 @@ public class Employee extends Person {
         this.maNhanVien = maNhanVien;
     }
 
-    public level getTrinhDo() {
+    public Level getTrinhDo() {
         return trinhDo;
     }
 
-    public void setTrinhDo(level trinhDo) {
+    public void setTrinhDo(Level trinhDo) {
         this.trinhDo = trinhDo;
     }
 
@@ -71,22 +65,22 @@ public class Employee extends Person {
         this.luong = luong;
     }
 
-    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, int soDienThoai, String eMail, Office office) {
+    public Employee(String hoTen, int ngaySinh, boolean gioiTinh, int soCMND, int soDienThoai, String eMail, Official office) {
         super(hoTen, ngaySinh, gioiTinh, soCMND, soDienThoai, eMail);
         this.office = office;
     }
 
-    public Office getOffice() {
+    public Official getOffice() {
         return office;
     }
 
-    public void setOffice(Office office) {
+    public void setOffice(Official office) {
         this.office = office;
     }
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "Employee{" +super.toString()+
                 "maNhanVien=E" + maNhanVien +
                 ", trinhDo=" + trinhDo +
                 ", office=" + office +

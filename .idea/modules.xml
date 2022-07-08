@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ss07_Abstract_and_Interface/ss07_Abstract_and_Interface.iml" filepath="$PROJECT_DIR$/ss07_Abstract_and_Interface/ss07_Abstract_and_Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss08_CleanCode_and_Refactoring/ss08_CleanCode_and_Refactoring.iml" filepath="$PROJECT_DIR$/ss08_CleanCode_and_Refactoring/ss08_CleanCode_and_Refactoring.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss10_DSA_DanhSach/ss10_DSA_DanhSach.iml" filepath="$PROJECT_DIR$/ss10_DSA_DanhSach/ss10_DSA_DanhSach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11_DSA_StackAndQueue/ss11_DSA_StackAndQueue.iml" filepath="$PROJECT_DIR$/ss11_DSA_StackAndQueue/ss11_DSA_StackAndQueue.iml" />
     </modules>
   </component>
 </project>
