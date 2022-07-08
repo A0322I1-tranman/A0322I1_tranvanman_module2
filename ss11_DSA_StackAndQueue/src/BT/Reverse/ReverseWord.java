@@ -10,14 +10,16 @@ public class ReverseWord {
         String[] arr = str.split(" ");
         for (int i=0;i<arr.length;i++){
             wStack.push(arr[i]);
+
         }
         String temp;
-        System.out.println(wStack);
-        for (int j=0;j<wStack.size();j++){
+        int loop = wStack.size();
+        for (int j=0;j<loop;j++){
             temp = wStack.pop();
             mStack.push(temp);
             System.out.println(temp);
         }
         System.out.println(mStack);
+        System.out.println(wStack);
     }
 }
