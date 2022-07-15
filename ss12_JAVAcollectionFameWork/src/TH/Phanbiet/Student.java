@@ -1,4 +1,4 @@
-package TH.HashMap;
+package TH.Phanbiet;
 
 public class Student {
     private String name;
