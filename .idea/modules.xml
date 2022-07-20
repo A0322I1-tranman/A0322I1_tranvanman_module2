@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/ss10_DSA_DanhSach/ss10_DSA_DanhSach.iml" filepath="$PROJECT_DIR$/ss10_DSA_DanhSach/ss10_DSA_DanhSach.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss11_DSA_StackAndQueue/ss11_DSA_StackAndQueue.iml" filepath="$PROJECT_DIR$/ss11_DSA_StackAndQueue/ss11_DSA_StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/ss12_JAVAcollectionFameWork/ss12_JAVAcollectionFameWork.iml" filepath="$PROJECT_DIR$/ss12_JAVAcollectionFameWork/ss12_JAVAcollectionFameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss13_Thuattoantimkiem/ss13_Thuattoantimkiem.iml" filepath="$PROJECT_DIR$/ss13_Thuattoantimkiem/ss13_Thuattoantimkiem.iml" />
     </modules>
   </component>
 </project>
